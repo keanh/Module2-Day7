@@ -1,3 +1,4 @@
-public interface Comparator {
-    int compare();
+package PACKAGE_NAME;
+
+public interface ComparableCircle1 {
 }
